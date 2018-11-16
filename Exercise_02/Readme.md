@@ -21,3 +21,5 @@ new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
 a) Is the chat message of client A blocked until user B writes its own message?
 
 b) Why does the blocking problem occur and how to solve it?
+
+Solve solution: *DistributedSystemLearning/Exercise_02/src/tcpMultiThreadClient.java*
